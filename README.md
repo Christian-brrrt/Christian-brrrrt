@@ -141,6 +141,6 @@
  <img align="center" width="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NlNWt6cDRnOXloazdjcjI2bnMyd2RxdDZwaXBtcGxsY29tNmV5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/01dhA4yWS9nUkvFzwk/giphy.gif" />
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Christian-brrrt/Christian-brrrt"> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Christian-brrrt/Christian-brrrt"> </h3> </p></br>
 
 <img width="100%" height="50" src="etc/bar-nav.gif"/></br>
