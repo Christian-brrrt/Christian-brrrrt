@@ -123,8 +123,21 @@
   <b>👨‍💻 Top Languages Repo and Commit Details</b>
 </h3>
 <p align=center>
+ 
+<a href="https://github.com/Christian-brrrt">
+      <img align="right" width=420 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christian-brrrt&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
+</a>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian-brrrt&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
+</p>
+</details>
+     
+    </a>
+    <br><br><br><br><br><br><br><br><br><br>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian-brrrt&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
+</p>
+</details>
 
-  <a href="https://github.com/Christian-brrrt">
     </a>
     <br><br><br><br><br><br><br><br><br><br>
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian-brrrt&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
