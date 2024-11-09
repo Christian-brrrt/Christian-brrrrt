@@ -132,18 +132,6 @@
 </p>
 </details>
      
-    </a>
-    <br><br><br><br><br><br><br><br><br><br>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian-brrrt&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
-</p>
-</details>
-
-    </a>
-    <br><br><br><br><br><br><br><br><br><br>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian-brrrt&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
-</p>
-</details>
-
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
