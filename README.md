@@ -112,10 +112,11 @@
     </a>
     <a href="https://www.facebook.com/christiandavestrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-Christian" height="30" width="40" />
     </a>  
-    <a href="https://open.spotify.com/user/31l24dpfeszebysvkjbcqpsiksoy" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Jyrrel_" height="30" width="40" />
+    <a href="https://open.spotify.com/user/31fnjmbd6mhhga7zcy6kb35gx4j4" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Christian" height="30" width="40" />
     </a>
   <br>
 </div>
+
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
