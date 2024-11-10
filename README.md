@@ -14,7 +14,8 @@
 
 <h4>
  <p align="center">
-     &bull; 👩‍🎓 I'm currently studying at <a href="https://coc.phinma.edu.ph/" target="_blank">[COC]</a></br>
+     &bull; 🧑🏻‍🎓 I'm currently studying at <a href="https://coc.phinma.edu.ph/" target="_blank">[COC]</a></br>
+     &bull; 🎓 Graduated from Senior Highschool <a href="https://www.liceo.edu.ph/" target="_blank">[LDCU]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JavaScript,HTML,CSS and Python.</b></br>
      &bull; 📫 How to contact me <b><a href="Christian:Estrada.christiandave748@gmail.com" target="_blank"">christiandave748@gmail.com</a></b></br>
      &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻,👩‍🎤 Sleeping💤</b>
