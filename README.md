@@ -60,18 +60,10 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="SqLite" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"> 
   <img align="center" alt="MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="Postgresql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> 
   <br>
 </div> 
 
-<h4 align="center">
-  <b> ⚙ <i>Frameworks:</i></b>
-</h4>
-<div style="display: inline_block" align="center">  
-  <img align="center" alt="CakePHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="Vue.js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
-  <br>
-</div>
+
 
 
 <h4 align="center">
@@ -85,26 +77,6 @@
   <br>
 </div> 
 
-
-<h4 align="center">
-  <b> 🪳 <i>Tests:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="JUnit 5" height="40" width="50" src="https://blog.stylingandroid.com/wp-content/uploads/2017/02/junit5-logo-150x150.png"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b> 🛠️<i>Others:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-   <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
-   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-   <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
-  <br>
-</div> 
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4ZTUwOTlnZTU1cjFrZmIwMWxhdTNobzdidTUxY3piMWQ3OGQ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyAwqCgksTbPOliPb9/giphy.gif" />
